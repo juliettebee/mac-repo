@@ -1,0 +1,22 @@
+Package: Godot
+Version: 3.5.1
+Architecture: darwin-amd64
+Maintainer: Juliette B <juliette@juliette.page>
+Filename: debs/godot.deb
+Size: 58294878
+MD5sum: 291d5cb641093bcc28773c5ef0bc60da
+SHA1: 7709add384b2a05aa7e2200cbbef674311f6ed3f
+SHA256: 926c57eefacdf0287f91fd897837974092f60685e9b3cadcd046f7af1a70ca4a
+Description: A game engine
+
+Package: Godot
+Version: 3.5.1
+Architecture: darwin-amd64
+Maintainer: Juliette B <juliette@juliette.page>
+Filename: debs/battery-buddy.deb
+Size: 58295040
+MD5sum: d293ccb07cad086b3fb8e62725490a4a
+SHA1: 904f2e35cd5fb5bb6db9b2134a2da576050d50c3
+SHA256: fa40d2e21e7a415df904ecef0270d1de63a2f6f09f03d9d175c4f9d7a5581b9b
+Description: A game engine
+

@@ -1,0 +1,6 @@
+Package: Godot
+Version: 3.5.1
+Architecture: darwin-amd64 
+Maintainer: Juliette B <juliette@juliette.page>
+Description: A game engine
+

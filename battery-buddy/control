@@ -1,0 +1,6 @@
+Package: Battery-Buddy
+Version: 1.0.0
+Architecture: darwin-amd64 
+Maintainer: Juliette B <juliette@juliette.page>
+Description: A cute battery indecator:)
+
